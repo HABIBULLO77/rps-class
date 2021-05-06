@@ -3,7 +3,7 @@
 
 ### web application is made using python streamlit library
 
-## I deployed via streamlit and here is the link to check the app: https://share.streamlit.io/habibullo77/rps-class/test.py
+## I deployed via streamlit and here is the link to check the app: ### https://share.streamlit.io/habibullo77/rps-class/test.py
 
 ## This is the initial screen
 
